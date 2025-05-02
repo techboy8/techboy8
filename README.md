@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**techboy8/techboy8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm [bibek rana]  
+🎨 Frontend Web Developer | UI/UX Enthusiast | Lifelong Learner  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack  
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript  
+- **Frameworks/Libraries:** React.js, Next.js, Tailwind CSS, Bootstrap  
+- **Tools:** Git, GitHub, VS Code, Figma, npm, Webpack  
+- **Other:** Responsive Design, REST APIs, Firebase, Netlify, Vercel  
+
+---
+
+## 🧩 Featured Projects  
+
+### 🌐 [Portfolio Website](https://yourwebsite.com)  
+A sleek, responsive personal portfolio built with React & Tailwind CSS.  
+> 💡 Features: Dark mode, smooth animations, and contact form with EmailJS.
+
+### 📘 [Blog Platform UI](https://github.com/yourname/blog-ui)  
+Designed and coded a blog platform frontend using React + CSS modules.  
+> 🎨 Focused on layout, color palette, and mobile responsiveness.
+
+---
+
+## 🏆 Certifications  
+- Meta Front-End Developer – Coursera  
+- JavaScript Algorithms and Data Structures – freeCodeCamp  
+- Responsive Web Design – freeCodeCamp  
+
+---
+
+## 📫 Contact Me  
+- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- Email: youremail@example.com  
+- GitHub: [github.com/yourusername](https://github.com/yourusername)
